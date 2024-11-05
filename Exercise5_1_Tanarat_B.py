@@ -1,0 +1,12 @@
+a = 10
+b = 2
+str_a = str(a)
+str_b = str(b)
+result1 = a+b
+result2 = a-b
+result3 = a*b
+result4 = int(a/b)
+print(str_a,"+",str_b,"=", result1)
+print(str_a,"+",str_b,"=", result2)
+print(str_a,"+",str_b,"=", result3)
+print(str_a,"+",str_b,"=", result4)
